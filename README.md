@@ -32,4 +32,4 @@ by replacing document id you are ready the save the script and publish/deploy it
 
 ![Deploy Webapp](https://github.com/dheerusuthar/dynamic-google-doc/blob/master/images/document_id.jpg)
 
-## After deploying the script as webapp you will get and `REST API ENDPOINT` for `GET` request replace this urls endpoint in the file `download_dynamic_doc.py` an edit the json data for parameter to get your dynamic google doc.
+### After deploying the script as webapp you will get `REST API ENDPOINT` for `GET` request. Replace this urls endpoint in the file `download_dynamic_doc.py` an edit the json data for parameter to get your dynamic google doc url in console and downloaded file in current dir.
